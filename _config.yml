@@ -38,3 +38,4 @@ BASE_PATH: /Watermelon-Heart
 
 plugins:
   - jekyll-paginate
+  - jemoji

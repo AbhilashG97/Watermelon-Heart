@@ -5,8 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: #
+google_analytics: #
 title: Watermelon Heart
 
 defaults:
@@ -21,7 +21,7 @@ author:
   name: Abhilash Gunasegaran
   email: abhilash.gunasegaran@gmail.com
   github: AbhilashG97
-  twitter: dbtek
+  twitter: HimmelDreng
   pinterest: HimmelDreng
   linkedin: abhilash-g-55160a139/
   bio: Android | Java | Machine Learning | Natural Language Processing
@@ -35,8 +35,6 @@ tags_path: tags.html
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH: 
-# set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 plugins:
   - jekyll-paginate

@@ -1,4 +1,30 @@
-_config.yml
-_site/*
-*Thumbs.db
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 Gemfile.lock
+
+### Compiled Source ###
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+### Compressed Packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### Linux ###
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*

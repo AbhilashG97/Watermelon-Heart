@@ -33,7 +33,7 @@ tags_path: tags.html
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
-sidebar_background_image: /assets/images/side-image-abstract.jpg
+sidebar_background_image: https://drive.google.com/uc?export=view&id=1WLWIQKfqsNTHB09m1NUXxDBmhZT9C2z8
 
 BASE_PATH: /Watermelon-Heart
 
